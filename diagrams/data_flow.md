@@ -1,9 +1,6 @@
-
----
-
 ## 📁 `diagrams/data_flow.md`
 
-```markdown
+
 ```mermaid
 sequenceDiagram
     User->>App: Run analysis

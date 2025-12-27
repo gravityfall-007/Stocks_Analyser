@@ -2,7 +2,6 @@
 
 📄 **diagrams/architecture.md**
 
-```markdown
 ```mermaid
 graph TD
     A[main.py] --> B[Company Object]
@@ -22,3 +21,4 @@ graph TD
 
     E --> M[Structured Report]
     M --> N[JSON / Markdown Output]
+```
