@@ -1,4 +1,4 @@
-# Stocks AnylyzerPlatfo 
+# Stocks Analyser Platform
 A modular, scalable Python framework inspired by the Bloomberg Terminal’s
 company analysis capabilities.
 
