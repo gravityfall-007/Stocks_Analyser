@@ -1,0 +1,55 @@
+{
+    "CostScaleAnalyzer": {
+        "revenue": 293812011008,
+        "operating_margin": 0.48873,
+        "economies_of_scale": "High"
+    },
+    "SupplyChainAnalyzer": {
+        "key_suppliers": [
+            "Semiconductor vendors",
+            "Logistics providers"
+        ],
+        "output_buyers": [
+            "Consumers",
+            "Enterprises"
+        ],
+        "supply_chain_risk": "Medium"
+    },
+    "MarketContextAnalyzer": {
+        "competitors": [
+            "MSFT",
+            "GOOGL",
+            "AMZN"
+        ],
+        "index_inclusions": [
+            "S&P 500",
+            "NASDAQ 100"
+        ],
+        "market_maturity": "High"
+    },
+    "StakeholdersAnalyzer": {
+        "major_stockholders": [
+            "Institutional investors"
+        ],
+        "analyst_coverage": "Extensive",
+        "public_sentiment": "Positive"
+    },
+    "InternalStructureAnalyzer": {
+        "board_structure": "Independent board",
+        "employee_count": 228000,
+        "org_complexity": "High"
+    },
+    "SecurityAnalyzer": {
+        "authentication": [
+            "MFA",
+            "Biometrics"
+        ],
+        "access_control": "Role-based",
+        "security_rating": "Enterprise-grade"
+    },
+    "MarketPositionAnalyzer": {
+        "barrier_to_entry": "High",
+        "business_model": "Specialized ecosystem",
+        "competitive_moat": "Strong"
+    }
+}

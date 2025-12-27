@@ -1,0 +1,3 @@
+data_provider: yfinance
+default_period: "1y"
+currency: "USD"
